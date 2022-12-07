@@ -1,6 +1,6 @@
 # windows–rdp
 
-Ezy setup just some steps
+Easy setup just some steps
 
 1. Fork it 
 
